@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: it had the shortest run time on sorted lists, = 0.093s on the sorted 10000 file
+
+sort2 uses: merge
+
+How do you know?: it had the shortest run time, = 0.071s on the random 10000 file
+
+sort3 uses: selection
+
+How do you know?: it had a longer run time on sorted lists, = 0.179s on the sorted 10000 file
