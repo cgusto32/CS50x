@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <h1> - For page titles
+2. <p> - For paragraphs
+3. <ul> - For unordered lists
+4. <li> - For list items
+5. <a> - For hyperlinks
+6. <nav> - For navigation bars
+7. <form> - For creating forms
+8. <input> - For input fields
+9. <button> - For buttons
+10. <img> - For embedding images
+
+CSS Selectors:
+1. body - Set the background color.
+2. .navbar - Styled the navigation bar.
+3. ul - Styled unordered lists.
+4. form - Styled form elements.
+5. #formFeedback - Styled the feedback after form submission.
+
+Bootstrap:
+I used Bootstrap’s navigation bar and grid system to style and layout the website.
+
+JavaScript:
+I used JavaScript in the contact form to display a thank-you message dynamically after the form is submitted.
